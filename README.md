@@ -1,6 +1,6 @@
 # InventoryOS — Portfolio Edition
 
-**Live demo:** _add your GitHub Pages link here once enabled (Settings → Pages)_
+**Live demo:** https://elisabettabonino96.github.io/Inventoryos-portfolio/
 
 A lightweight inventory management system, designed and built for a small food & beverage distributor that was tracking stock through manual processes and disconnected spreadsheets. This portfolio edition is anonymized and runs on a generated fictional dataset so it can be shared publicly without exposing real credentials or business data — see the "About Project" panel inside the app for the full case study.
 
